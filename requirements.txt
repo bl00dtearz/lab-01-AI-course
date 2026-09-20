@@ -1,0 +1,4 @@
+anthropic>=1.0
+tiktoken
+python-dotenv
+google-genai>=0.1.0
